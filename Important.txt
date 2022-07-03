@@ -1,0 +1,11 @@
+lancer UniversalXeloxDawn	   |
+copier votre steamid		   |
+choisir votre espace de stockage |
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+si vous avec des problèmes les causes possible  :
+virus détecte: comme tout les cracks il faut désactiver l'anti virus 
+code erreur#4585525: enlever virtualisation
+out of memory: problème ram
+
+
